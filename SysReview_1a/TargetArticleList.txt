@@ -1,0 +1,13 @@
+Braz NO
+Schwarzinger YES
+King NO - but this might not be in db yet.
+Ahamed NO
+Albahri NO
+Joshi YES
+Alabdulla NO - but other one found
+Ruiz YES
+Luk YES
+Hamel YES
+Edwards YES
+
+6/11
