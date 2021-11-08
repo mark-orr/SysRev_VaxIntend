@@ -17,3 +17,17 @@ This one came up but currently embargoed: Public Trust and Willingness to Vaccin
 
 AND CAN”T FIND THE PDF FOR THIS ONE:
 Robertson, E., Reeve, K. S., Niedzwiedz, C. L., Moore, J., Blake, M., Green, M., Katikireddi, S. V., & Benzeval, M. J. (2021). Predictors of COVID-19 vaccine hesitancy in the UK household longitudinal study. Brain, behavior, and immunity, 94, 41–50. https://doi.org/10.1016/j.bbi.2021.03.008
+
+Went throught 60 of these, the first 60 in the list (don't know how these are ordered -- and note that this was after hiding due to title judgement):
+Relevance:
+    26/60 fully relevant
+    19/60 very relevant but typically special populations
+    14/60 completely non relevant.
+    1/60 relevant, but very specific (second shot for health care workers
+
+Surveys:
+    46 were surveys
+    14 were not surveys (3 of which were choice experiments)
+
+N:
+    51 of 60 reported N
