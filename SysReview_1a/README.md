@@ -20,9 +20,9 @@ Robertson, E., Reeve, K. S., Niedzwiedz, C. L., Moore, J., Blake, M., Green, M.,
 
 Went throught 60 of these, the first 60 in the list (don't know how these are ordered -- and note that this was after hiding due to title judgement):
 Relevance:
-    26/60 fully relevant
+    26/60 fully relevant 
     19/60 very relevant but typically special populations
-    14/60 completely non relevant.
+    14/60 completely non relevant. (~25%)
     1/60 relevant, but very specific (second shot for health care workers
 
 Surveys:
@@ -30,4 +30,8 @@ Surveys:
     14 were not surveys (3 of which were choice experiments)
 
 N:
-    51 of 60 reported N
+    44 of 60 reported N
+        Of which 40 were fully or very relevant.
+
+
+    

@@ -12,4 +12,16 @@ savedrec-3.xls is first 1000 records
 
 Modified the .xls files by removing non needed col and adding Number
 col for indenxing.
+
+Relevance:
+    8/100 fully relevant
+    47/100 very relevant but typically special populations
+    46/100 completely non relevant (41%)
+    12/partially relevant
+
+Surveys:
+    71/100 were surveys
+
+
+
 EOF
